@@ -14,4 +14,4 @@ PhotoPher is a quick and simple way to build a portfolio for photographers. Anyo
   2. Install dependencies : `npm install --save`
   3. Change out the database configuration in config/database.js
   4. Run server : `node server.js` or  `nodemon`
-  5. Visit : `http://localhost:8000`
+  5. Visit : `http://localhost:8080`

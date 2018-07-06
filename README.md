@@ -6,7 +6,7 @@ PhotoPher is a quick and simple way to build a portfolio for photographers. Anyo
 ##  3. System Analysis
 ##  4. Design
 ##  5. Implementation
-##  6. Testing
+##  6. Testing  
 ##  7. Discussion and Conclusion
 
 ## Installation

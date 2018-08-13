@@ -1,5 +1,5 @@
 # Photopher
-PhotoPher is a quick and simple way to build a portfolio for photographers. Anyone can hire a photographer from PhotoPher.
+Photopher is a quick and simple way to build a portfolio for photographers. People/clients can hire a photographer from PhotoPher. It was an academic group project and was also built for different platforms such as android, windows, iOS.
 
 ##  1. Introduction
 ##  2. Requirements
